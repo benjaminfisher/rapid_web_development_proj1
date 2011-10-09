@@ -4,4 +4,10 @@
 + Jeff Hogan
 + Samuel Templeman
 + Jake Ross
-+ Benjamin
++ Benjamin Fisher
+
+
+## Tag format
+Let's try and follow a consistent but semi-informal commit naming convention.
+Give a description of the commit, followed by the date in MMDDYY format, then
+your complete name, such as jeffreyhogan.
