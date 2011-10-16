@@ -1,10 +1,10 @@
 # WDIM351 Fall 2011
 ## Project 1: Redesign of the AIPD homepage
 ###Group Members
-+ Jeff Hogan
-+ Samuel Templeman
-+ Jake Ross
-+ Benjamin Fisher
++ Jeff Hogan - Back end development lead
++ Samuel Templeman - Front end development lead
++ Jake Ross - Design lead
++ Benjamin Fisher - Indian
 
 
 ## Tag format
