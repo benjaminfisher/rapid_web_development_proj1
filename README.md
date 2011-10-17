@@ -2,12 +2,16 @@
 ## Project 1: Redesign of the AIPD homepage
 ###Group Members
 + Jeff Hogan - Back end development lead
-+ Samuel Templeman - Front end development lead
-+ Jake Ross - Design lead
-+ Benjamin Fisher - Indian
++ Samuel Templeman - Design Lead
++ Jake Ross - Front End Lead
++ Benjamin Fisher - Floating Front end/Back end
 
 
 ## Tag format
 Let's try and follow a consistent but semi-informal commit naming convention.
 Give a description of the commit, followed by the date in MMDDYY format, then
 your complete name, such as jeffreyhogan.
+
+## Update 
+Updated Ben's title changes (a couple were in the wrong spot) :) 
+Remember date edited formats! 101611 - jeffreyhogan
