@@ -21,5 +21,5 @@ Updated Ben's title changes (a couple were in the wrong spot) :)
 Remember date edited formats! 101611 - jeffreyhogan
 
 ---
-Added file structure in working directory and jquery min - bfisher 101611<br />
+Added file structure in working directory and jquery min - bfisher 101711<br />
 p.s. I don't seem to be able to update README.md remotely. I have to edit on GitHub. BF
