@@ -19,3 +19,5 @@ md in the new working directory (Jake/Ben) 101611 jeffreyhogan
 
 Updated Ben's title changes (a couple were in the wrong spot) :) 
 Remember date edited formats! 101611 - jeffreyhogan
+---
+Added file structure in working directory and jquery min - bfisher 101611
