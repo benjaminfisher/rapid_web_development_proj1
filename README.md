@@ -12,6 +12,10 @@ Let's try and follow a consistent but semi-informal commit naming convention.
 Give a description of the commit, followed by the date in MMDDYY format, then
 your complete name, such as jeffreyhogan.
 
-## Update 
+# Updates
+
+created a working directory for all front end work. Please pull and see README.
+md in the new working directory (Jake/Ben) 101611 jeffreyhogan
+
 Updated Ben's title changes (a couple were in the wrong spot) :) 
 Remember date edited formats! 101611 - jeffreyhogan
