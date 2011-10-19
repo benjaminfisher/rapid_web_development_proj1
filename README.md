@@ -24,3 +24,4 @@ Added file structure in working directory and jquery min - bfisher 101611
 
 ---
 Added HTML5 Boilerplate index.html and supporting files - bfisher 101811
+Added style.css (with reset styles) and images from assets - bfisher 101911
