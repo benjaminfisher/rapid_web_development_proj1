@@ -24,5 +24,5 @@ Added file structure in working directory and jquery min - bfisher 101611
 
 ---
 Added HTML5 Boilerplate index.html and supporting files - bfisher 101811<br />
-Added style.css (with reset styles) and images from assets - bfisher 101911.
-Content styles for Department Faculty pages complete - bfisher 101911.
+Added style.css (with reset styles) and images from assets - bfisher 101911<br />
+Content styles for Department Faculty pages complete - bfisher 101911<br />
