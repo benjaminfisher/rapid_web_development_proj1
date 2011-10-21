@@ -27,6 +27,5 @@ Added HTML5 Boilerplate index.html and supporting files - bfisher 101811<br />
 Added style.css (with reset styles) and images from assets - bfisher 101911<br />
 Content styles for Department Faculty pages complete - bfisher 101911<br />
 
-___
-
-Testing 101911 jakeross
+---
+Main site content styles almost complete - bfisher 102011
