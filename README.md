@@ -43,3 +43,6 @@ for testing. If you have Ruby and Sinatra installed you should be able to pull
    application.rb' NO QUOTES. Then go to your browser and navigate to
    localhost:4567 (or whatever port your sinatra is running WEBRICK on). When Jake gives the go-ahead on his template I will create the views and .erb files needed for the templated parts of the site.  - jeffreyhogan 102211
 
+---
+
+Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 102311
