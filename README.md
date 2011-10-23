@@ -15,14 +15,6 @@ your complete name, such as jeffreyhogan.
 # Updates
 
 
----
-Added the skeleton framework in for the Ruby/Sinatra App! It only has
-a stripped out app structure at the moment and a placeholder DOM I was using
-for testing. If you have Ruby and Sinatra installed you should be able to pull
-   the new files down, CD into the project directory and type 'ruby
-   application.rb' NO QUOTES. Then go to your browser and navigate to
-   localhost:4567 (or whatever port your sinatra is running WEBRICK on). When Jake gives the go-ahead on his template I will create the views and .erb files needed for the templated parts of the site.  - jeffreyhogan 102211
-
 Created a working directory for all front end work. Please pull and see README.
 md in the new working directory (Jake/Ben) 101611 jeffreyhogan
 
@@ -42,3 +34,12 @@ Main site content styles almost complete - bfisher 102011
 
 ---
 Removed the aptana .project file - jeffreyhogan 102211
+
+---
+Added the skeleton framework in for the Ruby/Sinatra App! It only has
+a stripped out app structure at the moment and a placeholder DOM I was using
+for testing. If you have Ruby and Sinatra installed you should be able to pull
+   the new files down, CD into the project directory and type 'ruby
+   application.rb' NO QUOTES. Then go to your browser and navigate to
+   localhost:4567 (or whatever port your sinatra is running WEBRICK on). When Jake gives the go-ahead on his template I will create the views and .erb files needed for the templated parts of the site.  - jeffreyhogan 102211
+
