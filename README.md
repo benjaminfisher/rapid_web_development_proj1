@@ -29,3 +29,7 @@ Content styles for Department Faculty pages complete - bfisher 101911<br />
 
 ---
 Main site content styles almost complete - bfisher 102011
+
+
+---
+Removed the aptana .project file - jeffreyhogan 102211
