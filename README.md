@@ -46,3 +46,7 @@ for testing. If you have Ruby and Sinatra installed you should be able to pull
 ---
 
 Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 102311
+
+---
+
+Merged the header/footer html and css with the content pages that were up on github. Still more to do, I'm fixing stuff I messed up still. - jross 102311
