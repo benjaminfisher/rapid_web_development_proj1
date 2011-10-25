@@ -50,3 +50,19 @@ Added Career Services page and updated styles for main content blocks. Also chan
 ---
 
 Merged the header/footer html and css with the content pages that were up on github. Still more to do, I'm fixing stuff I messed up still. - jross 102311
+
+___
+
+Fixed many of the css issues from the css file merge last time. 
+
+CSS left to do:
+- Change logo to text
+- Style the search bar
+- Make css drop-down menus work
+
+If I have extra time:
+-extend the header and re-extend the splash image area to the full width of the page.
+
+Other than the things above, everything is in working order! Almost done with necessary front-end for the pages we have!
+
+-jross 102411
