@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -36,10 +35,3 @@ publish
 # build script local files
 build/buildinfo.properties
 build/config/buildinfo.properties
-=======
-.DS_Store
-
-.tmp*
-
-.project
->>>>>>> 347cca1bcf32cbca83d1516d0fd7896c86e90b88
