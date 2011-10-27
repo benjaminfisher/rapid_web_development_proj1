@@ -10,19 +10,15 @@ class Navigation
  
     include DataMapper::Resource  
   
-    property :id              , Serial, :required => true    
-    property :created_at      , DateTime
+    property :id              , Serial, :required => true
+    property :department      , String   
+    property :location        , String
 
 end 
 
 DataMapper.finalize.auto_upgrade!
 
-post '/' do 
-
-  newRow.created_at = Time.now  
-  newRow.save  
-
-end
+nav = Navigation.create department: "Web Design & Interactive Media", location: "/wdim"
 
 get '/' do
 
