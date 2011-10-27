@@ -1,0 +1,97 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+       Remove this if you use the .htaccess -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Art Institute of Portland</title>
+
+  <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <!-- CSS: implied media="all" -->
+  <link rel="stylesheet" href="css/global.css" />
+
+  <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+  <script src="js/libs/modernizr-1.7.min.js"></script>
+
+</head>
+
+<body>
+
+<!-- ## GLOBAL CONTAINER ## -->
+  <div id="container">
+  
+  <!-- ## HEADER ## -->
+    <header>
+    	<!-- ## GLOBAL LOGO & SWOOSH ## -->
+		<hgroup id="headerSwoosh">
+			
+			<div id="logo">
+				<a href="index.html"><img src="images/logo.png" alt="AiPD Logo" /></a>
+			</div>
+			
+			<!-- ## GLOBAL SOCIAL & MYAiCAMPUS BUTTONS ## -->
+			<ul id="social">
+				<a href="#"><li id="myAiCampus"></li></a>
+				<a href="#"><li id="twitter"></li></a>
+				<a href="#"><li id="facebook"></li></a>
+				<a href="#"><li id="rss"></li></a>
+			</ul>
+			
+			<!-- ## GLOBAL SEARCH ## -->
+			<form id="search" name="search">
+				<input type="text" id="search_field" name="search_field" placeholder="" />
+				<input type="submit" id="submit" value="search" />
+			</form>
+		
+			<!-- ## HEADER NAV ## -->
+			<nav id="mainNav"><ul>
+				<li class="active"> <a href="#">About AiPD</a>
+				
+					<!-- ## SUBNAV FOR ABOUT AiPD ## -->
+					<ul class="subnav">
+						<li> <a href="#">Sub-link</a></li>
+						
+					</ul>
+				</li>
+				
+				<li> <a href="#">Departments</a>
+				
+					<!-- ## SUBNAV FOR DEDPARTMENTS ## -->
+					<ul class="subnav" >
+						<li> <a href="VGP.html">Visual and Game Programming</a></li>
+						
+					</ul>
+				</li>
+				
+				<li> <a href="#">Student Services</a>
+				
+					<!-- ## SUBNAV FOR STUDENT SERVICES ## -->
+					<ul class="subnav">
+						<li> <a href="CareerServices.html">Career Services</a></li>
+						
+					</ul>
+				</li>
+				
+				<li> <a href="#">Calendar</a>
+				
+				</li>
+				
+				<li> <a href="#">People Directory</a>
+				
+				</li>
+				
+			</ul></nav>
+		</hgroup>
+    </header>
