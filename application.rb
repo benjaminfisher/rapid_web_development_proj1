@@ -20,6 +20,7 @@ DataMapper.finalize.auto_migrate!
 
 Navigation.create department: "Visual Game Programming", location: "/vgp"
 Navigation.create department: "Web Design & Interactive Media", location: "/wdim"
+Navigation.create department: "Career Services", location: "/cs"
 
 configure do
 
@@ -41,4 +42,16 @@ get '/vgp' do
 
 end
 
+get '/wdim' do
 
+   @title = "AIPD | Web Design and Interactive Media"
+   erb :wdim
+
+end
+
+get '/CareerServices.html' do
+
+   @title = "AIPD | Career Services"
+   erb :cs
+
+end

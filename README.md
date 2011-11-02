@@ -77,3 +77,14 @@ Fixed explosions and commited the running Sinatra app with templated sections
 Added new .erb files, instantiated DB, created looping navigation creator.
 I CAN HAZ CSS??
 - jeffreyhogan 110111
+
+---
+
+Modified the HTML and added the CSS styles for the Main Nav dropdown menus.
+- bfisher 11011
+
+Also added the cs.erb (which isn't working live) and the wdim.erb (which is).
+Moved the global.css to the live site directory, and removed the reset.css. Seems to be working just fine.
+- bfisher 11021
+
+---
