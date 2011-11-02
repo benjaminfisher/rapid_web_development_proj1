@@ -45,7 +45,7 @@ for testing. If you have Ruby and Sinatra installed you should be able to pull
 
 ---
 
-Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 110111
+Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 102311
 
 ---
 
@@ -76,4 +76,4 @@ Fixed explosions and commited the running Sinatra app with templated sections
 
 Added new .erb files, instantiated DB, created looping navigation creator.
 I CAN HAZ CSS??
-- jeffreyhogan 102611
+- jeffreyhogan 110111
