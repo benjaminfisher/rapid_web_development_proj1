@@ -71,3 +71,9 @@ Other than the things above, everything is in working order! Almost done with ne
 
 Fixed explosions and commited the running Sinatra app with templated sections
 - jeffreyhogan 102611
+
+---
+
+Added new .erb files, instantiated DB, created looping navigation creator.
+I CAN HAZ CSS??
+- jeffreyhogan 102611
