@@ -380,9 +380,26 @@ text-shadow: 1px -1px #333, -1px -1px #AAA;
 	#main section ul.dept_list li:last-child:after { display:none; }
 	
 #main div.profile img { float:left; margin-right:1em; }
-	
-	
 
+#social_links{
+	float:right;
+	position:relative;
+	right:263px;
+	top:5px;
+}
+	
+#social_links ul li{
+	float:left;
+	margin-right:10px;
+}
+
+nav #social_links ul li, nav #social_links ul li a{ width:31px; height: 31px;  }
+
+nav #social_links ul li a.hide { color:rgba(0,0,0,0); }
+
+#social_links ul li { background-image: url(../images/social_sprite.png); background-repeat: no-repeat; }
+#social_links ul li:nth-of-type(2) { background-position: -31px 0; }
+#social_links ul li:nth-of-type(3) { background-position: -62px 0; }
 /******************** BEGIN (Header & Footer Styles - Author J. Ross) ********************/
 
 /*** GLOBAL WRAPPERS ***/
