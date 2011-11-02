@@ -45,7 +45,7 @@ for testing. If you have Ruby and Sinatra installed you should be able to pull
 
 ---
 
-Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 102311
+Added Career Services page and updated styles for main content blocks. Also changed favicon. - bfisher 110111
 
 ---
 
