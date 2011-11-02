@@ -66,3 +66,14 @@ If I have extra time:
 Other than the things above, everything is in working order! Almost done with necessary front-end for the pages we have!
 
 -jross 102411
+
+---
+
+Fixed explosions and commited the running Sinatra app with templated sections
+- jeffreyhogan 102611
+
+---
+
+Added new .erb files, instantiated DB, created looping navigation creator.
+I CAN HAZ CSS??
+- jeffreyhogan 110111
