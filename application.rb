@@ -16,14 +16,28 @@ class Navigation
 
 end 
 
-DataMapper.finalize.auto_upgrade!
+DataMapper.finalize.auto_migrate!
 
-nav = Navigation.create department: "Web Design & Interactive Media", location: "/wdim"
+Navigation.create department: "Visual Game Programming", location: "/vgp"
+Navigation.create department: "Web Design & Interactive Media", location: "/wdim"
+
+configure do
+
+    set :navList, Navigation.all
+
+end
 
 get '/' do
 
    @title = "AIPD"
    erb :index
+
+end
+
+get '/vgp' do
+
+   @title = "AIPD | Visual Game Programming"
+   erb :vgp
 
 end
 
