@@ -502,7 +502,7 @@ nav #social_links ul li a.hide { color:rgba(0,0,0,0); }
 	header nav > ul{
 		float: left;
 	}
-	header nav > ul li {
+	header nav > ul > li {
 		float: left;
 		height: 50px;
 		position: relative;
@@ -510,7 +510,7 @@ nav #social_links ul li a.hide { color:rgba(0,0,0,0); }
 		border-right: 1px solid #EEE;
 	}
 	
-	header nav#mainNav ul > li a{ text-align:center; }
+	header nav#mainNav > ul > li a{ text-align:center; }
 	
 	header nav ul li a {
 		color:#860f0f;
@@ -525,14 +525,17 @@ nav #social_links ul li a.hide { color:rgba(0,0,0,0); }
 	header nav ul.subnav{
 		position:relative;
 		left:-9999em;
-		text-align:left;
 		width: 295px;
 		z-index: 100;
 	}
-	header nav ul.subnav li{
-		text-align:left;
-		font-weight:normal;
+	
+	header nav#mainnav ul ul.subnav li{
 		width:inherit;
+		text-align:left;
+		text-indent:1em;
+	}
+	header nav ul.subnav li a{
+		font-weight:normal;
 	}
 	header nav li:hover{
 		background: #b82e2f;

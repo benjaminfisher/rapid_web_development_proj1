@@ -529,10 +529,10 @@ nav #social_links ul li a.hide { color:rgba(0,0,0,0); }
 		width: 295px;
 		z-index: 100;
 	}
-	header nav ul.subnav li{
-		text-align:left;
+	
+	header nav ul.subnav li{ width:inherit; }
+	header nav ul.subnav li a{
 		font-weight:normal;
-		width:inherit;
 	}
 	header nav li:hover{
 		background: #b82e2f;
